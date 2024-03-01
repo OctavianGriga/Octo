@@ -10,14 +10,13 @@ Tools used: Jira, Zephyr Squad, Google Slides.
 
 The below story's was created in Jira and describes the functional specifications of the "Caracteristics, Constraints Checkout flow for a user " module's, for which the final project is performed upon.
 
-**inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
 ![image](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/9a7641f8-cd2e-4852-a568-fd93d47e3df3)
 ![image](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/47ff00b1-d46a-453a-bb8a-28a35dde2e8b)
 
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
-![image](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/8d5ae9e6-0037-41e8-81a1-32740c2db2c2)
+![image](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/e644eb56-4575-4dd7-b37b-eeb6ea59c64e)
+
 
 
 
