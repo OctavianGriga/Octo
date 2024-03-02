@@ -8,7 +8,7 @@ Tools used: Jira, Zephyr Squad, Google Slides.
 
 <h2>Functional specifications:</h2>
 
-The below story's was created in Jira and describes the functional specifications of the "Caracteristics, Constraints Checkout flow for a user " module's, for which the final project is performed upon.
+The below story's was created in Jira and describes the functional specifications of the "Caracteristics, Constraints and Checkout flow for a user " module's, for which the final project is performed upon.
 
 ![image](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/9a7641f8-cd2e-4852-a568-fd93d47e3df3)
 ![image](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/47ff00b1-d46a-453a-bb8a-28a35dde2e8b)
