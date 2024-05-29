@@ -41,12 +41,12 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 <ol>
-<li>Availability of the requirements document (both functional and non-functional).
-Acceptance criteria defined.
-Availability of the application architecture document.
-Performant hardware.
-Availability of the team.
-Windows vesions 10 or higher.</li>
+**<li>Availability of the requirements document (both functional and non-functional).</li>
+<li></li>Acceptance criteria defined.</li>
+<li>Availability of the application architecture document.</li>
+<li>Performant hardware.</li>
+<li>Availability of the team.</li>
+<li></li>Windows vesions 10 or higher.</li>**
 </ol>
 <h4> 1.1.3 Exit criteria defined </h4>
 
