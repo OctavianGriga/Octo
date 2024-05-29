@@ -32,22 +32,21 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
-  <li>Dumitrescu Sorin</li> 
-  <li>Costin Andreea</li>
-  <li>Banciulesc Vasile</li>
-  <li>Griga Octavian</li>
+  <li>Dumitrescu Sorin- Project manager</li> 
+  <li>Costin Andreea- Product owner</li>
+  <li>Banciulesc Vasile- Software developer</li>
+  <li>Griga Octavian- QA Engineer</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**Availability of the requirements document (both functional and non-functional).
-  Acceptance criteria defined.
-  Availability of the application architecture document.
-  Performant hardware.
-  Availability of the team.
-  Windows vesions 10 or higher.**
+**Availability of the requirements document (both functional and non-functional).**
+**Acceptance criteria defined.**
+**Availability of the application architecture document.**
+**Performant hardware.**
+**Availability of the team.**
+**Windows vesions 10 or higher.**
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
