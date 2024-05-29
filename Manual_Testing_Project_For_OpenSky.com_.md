@@ -40,14 +40,14 @@ The plan identifies the items to be tested, the features to be tested, the types
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
-
+<ol>
 **Availability of the requirements document (both functional and non-functional).**
 **Acceptance criteria defined.**
 **Availability of the application architecture document.**
 **Performant hardware.**
 **Availability of the team.**
 **Windows vesions 10 or higher.**
-
+</ol>
 <h4> 1.1.3 Exit criteria defined </h4>
 
 **85% passed test cases.
