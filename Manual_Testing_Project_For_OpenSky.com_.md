@@ -46,7 +46,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   <li>Availability of the application architecture document.</li>
   <li>Performant hardware.</li>
   <li>Availability of the team.</li>
-  <li></li>Windows vesions 10 or higher.</li>
+  <li>Windows vesions 10 or higher.</li>
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
