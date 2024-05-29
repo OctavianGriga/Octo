@@ -40,21 +40,23 @@ The plan identifies the items to be tested, the features to be tested, the types
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
+
 <ol>
-**<li>Availability of the requirements document (both functional and non-functional).</li>
-<li></li>Acceptance criteria defined.</li>
-<li>Availability of the application architecture document.</li>
-<li>Performant hardware.</li>
-<li>Availability of the team.</li>
-<li></li>Windows vesions 10 or higher.</li>**
+**<li>Availability of the requirements document (both functional and non-functional).**</li>
+  <li></li>Acceptance criteria defined.</li>
+  <li>Availability of the application architecture document.</li>
+  <li>Performant hardware.</li>
+  <li>Availability of the team.</li>
+  <li></li>Windows vesions 10 or higher.</li>**
 </ol>
+
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**85% passed test cases.
-  Test cases must be written and examined.
-  No Critical test case open.
-  Test data needs to be prepared and recognized.
-  Test closure report.**
+  <li>85% passed test cases.</li>
+  <li>Test cases must be written and examined.</li>
+  <li>No Critical test case open.</li>
+  <li>Test data needs to be prepared and recognized.</li>
+  <li>Test closure report.</li>
 
 <h4> 1.1.4 Test scope</h4>
 
