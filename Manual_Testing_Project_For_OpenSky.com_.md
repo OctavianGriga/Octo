@@ -43,7 +43,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <ol>
 **<li>Availability of the requirements document (both functional and non-functional).**</li>
-  <li></li>Acceptance criteria defined.</li>
+  <li>Acceptance criteria defined.</li>
   <li>Availability of the application architecture document.</li>
   <li>Performant hardware.</li>
   <li>Availability of the team.</li>
