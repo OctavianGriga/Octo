@@ -34,19 +34,28 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Dumitrescu Sorin</li> 
+  <li>Costin Andreea</li>
+  <li>Banciulesc Vasile</li>
+  <li>Griga Octavian</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+**Availability of the requirements document (both functional and non-functional).
+  Acceptance criteria defined.
+  Availability of the application architecture document.
+  Performant hardware.
+  Availability of the team.
+  Windows vesions 10 or higher.**
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+**85% passed test cases.
+  Test cases must be written and examined.
+  No Critical test case open.
+  Test data needs to be prepared and recognized.
+  Test closure report.**
 
 <h4> 1.1.4 Test scope</h4>
 
