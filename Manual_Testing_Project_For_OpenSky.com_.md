@@ -77,16 +77,14 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.5 Risks detected</h4>
 
 **<h5>Project risks:</h5>**
-
+<ul>
 <li>Riscul lipsei de comunicare și colaborare intre angajați.</li>
 <li>Riscul lipsei de resurse suficiente - fonduri, personal.</li>
 <li>Riscul de a avea o calitatea scăzuta a codului.</li>
 <li>Riscul schimbării cerințelor de business foarte frecvent.</li>
 <li>Riscul lipsei de experienta a testerilor și presiune a timpului.</li>
-![image](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/05d13f62-ec52-411d-9d5b-70356f2f37ca)
- 
-
-<h5> Product risks: </h5>
+</ul>
+ <h5> Product risks: </h5>
 
 **(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
 
