@@ -33,10 +33,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
 <ul>
-<li>Dumitrescu Sorin- Project manager</li> 
-<li>Costin Andreea- Product owner</li>
-<li>Banciulesc Vasile- Software developer</li>
-<li>Griga Octavian- QA Engineer</li>
+  <li>Dumitrescu Sorin- Project manager</li> 
+ <li>Costin Andreea- Product owner</li>
+ <li>Banciulesc Vasile- Software developer</li>
+ <li>Griga Octavian- QA Engineer</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
@@ -60,7 +60,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+  **<li>Unit Testing</li>
+  <li>We test the new and existing modules within the application.</li>
+  <li>API testing.</li>
+  <li>SQL testing.</li>
+  <li>We are testing if 1 single user can log in.</li>
+  <li>We are testing if the information is deleted at the time of logging out.</li>
+  <li>System testing</li>**
 
 <h5>Tests not in scope: </h5>
 
