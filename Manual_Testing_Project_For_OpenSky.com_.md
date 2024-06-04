@@ -69,10 +69,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5>Tests not in scope: </h5>
 
-  <li>Performance Testing</li>
-  <li>Load Testing</li
-  <li>Security Testing</li>
-  <li>Reliability Testing</li>
+  <li>Performance Testing(performance testing check that the software is literally performing at optimal levels: loading speed, software crash rates, memory, latency time etc).</li>
+  <li>Load Testing(Load tests check how well a system handles increased load, such as from too many users logging in and shopping at the same time).</li>
+  <li>Security Testing(Security tests check the software’s weaknesses and vulnerabilities to external attacks).</li>
+  <li>Responsive Testing(Responsive tests monitor and evaluate if an app/site renders well on screen sizes and resolutions offered by different devices, mobile, tablets, desktops).</li>
 
 <h4>1.1.5 Risks detected</h4>
 
