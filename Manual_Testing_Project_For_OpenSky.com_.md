@@ -101,6 +101,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 In this phase, the project is monitored and controlled to ensure that it is delivered according to plan. The project team will monitor performance, budget and delivery timelines, identifying issues and risks and implementing corrective actions if necessary.
 
 **Test monitoring:**
+
 Monitoring is the process of evaluating test activities and efforts.
 The goal is to track the current progress of testing activity, find and track relevant metrics, estimate future actions based on those metrics, and provide feedback to the team.
 To monitor effectively, we follow these steps:
@@ -110,11 +111,13 @@ To monitor effectively, we follow these steps:
 <li>Produce a report.</li>
 
 **Test control:**
+
 After monitoring, we enter the control phase of the test.
 <li>Here, we prioritize testing activities, review the testing schedule, and make other changes to improve the quality and efficiency of the future testing process.</li>
 <li>Control is a feedback loop that helps us keep the project on the tracks.</li>
 
-**(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
+
+(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
 
 <h3> 1.3 Test Analysis </h3>
 The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
