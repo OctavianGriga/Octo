@@ -41,7 +41,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-  <li>Availability of the requirements document (both functional and non-functional).**</li>
+  <li>Availability of the requirements document (both functional and non-functional).</li>
   <li>Acceptance criteria defined.</li>
   <li>Availability of the application architecture document.</li>
   <li>Performant hardware.</li>
@@ -60,17 +60,19 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-  <li>Unit Testing</li>
-  <li>We test the new and existing modules within the application.</li>
-  <li>API testing.</li>
-  <li>SQL testing.</li>
+  <li>Unit Testing (we test the smallest functional unit of code and helps ensure code quality, and it's an integral part of software development).</li>
+  <li>We test module within the application (we are testing a subset of UI elements that together builds the complete user interface).</li>
+  <li>Integration testing(we test if the components of the software unified as a group they are working properly together.</li>
   <li>We are testing if 1 single user can log in.</li>
   <li>We are testing if the information is deleted at the time of logging out.</li>
-  <li>System testing</li>
+  <li>we are testing the process of complete order and payment.</li>
 
 <h5>Tests not in scope: </h5>
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+  <li>Performance Testing</li>
+  <li>Load Testing</li
+  <li>Security Testing</li>
+  <li>Reliability Testing</li>
 
 <h4>1.1.5 Risks detected</h4>
 
