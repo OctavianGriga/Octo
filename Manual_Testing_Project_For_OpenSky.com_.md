@@ -60,13 +60,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-  **<li>Unit Testing</li>
+  <li>Unit Testing</li>
   <li>We test the new and existing modules within the application.</li>
   <li>API testing.</li>
   <li>SQL testing.</li>
   <li>We are testing if 1 single user can log in.</li>
   <li>We are testing if the information is deleted at the time of logging out.</li>
-  <li>System testing</li>**
+  <li>System testing</li>
 
 <h5>Tests not in scope: </h5>
 
