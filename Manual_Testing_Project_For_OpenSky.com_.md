@@ -105,16 +105,19 @@ In this phase, the project is monitored and controlled to ensure that it is deli
 Monitoring is the process of evaluating test activities and efforts.
 The goal is to track the current progress of testing activity, find and track relevant metrics, estimate future actions based on those metrics, and provide feedback to the team.
 To monitor effectively, we follow these steps:
+
 <li>Create a monitoring plan.</li>
 <li>Updates the progress log.</li>
 <li>Analyze the recording and make adjustments.</li>
 <li>Produce a report.</li>
+<br></br>
 
 **Test control:**
 
 After monitoring, we enter the control phase of the test.
 <li>Here, we prioritize testing activities, review the testing schedule, and make other changes to improve the quality and efficiency of the future testing process.</li>
 <li>Control is a feedback loop that helps us keep the project on the tracks.</li>
+![Screenshot 2024-06-04 183936](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/1f647c2f-8bc9-4fed-bc8d-8e2d40c513b8)
 
 
 (inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
