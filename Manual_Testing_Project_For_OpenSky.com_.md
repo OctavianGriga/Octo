@@ -6,7 +6,7 @@ Application under test: **https://opensky.com/**
 
 Tools used: Jira, Zephyr Squad, Google Slides.
 
-<h2>Functional specifications:</h2>
+**<h2>Functional specifications:</h2>**
 
 The below story's was created in Jira and describes the functional specifications of the "Caracteristics, Constraints and Checkout flow for a user " module's, for which the final project is performed upon.
 
@@ -20,17 +20,17 @@ Here you can find the release that was created for this project:
 
 
 
-<h2>Testing process</h2>
+**<h2>Testing process</h2>**
 
 The test process was performed based on the standard test process as described below.
 
-<h3>1.1 Test planning</h3>
+**<h3>1.1 Test planning</h3>**
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **https://docs.google.com/presentation/d/1GP44-vzpmuDYUpKp-sZC1dg_a5oWn8IkESrMXzVBUNQ/edit#slide=id.p**
 
-<h4>1.1.1. Roles asigned to the project and persons allocated</h4>
+**<h4>1.1.1. Roles asigned to the project and persons allocated</h4>**
 
 <ul>
   <li>Dumitrescu Sorin- Project manager</li> 
@@ -39,7 +39,7 @@ The plan identifies the items to be tested, the features to be tested, the types
  <li>Griga Octavian- QA Engineer</li>
 </ul>
 
-<h4> 1.1.2 Entry criteria defined </h4>
+**<h4> 1.1.2 Entry criteria defined </h4>**
 
   <li>Availability of the requirements document (both functional and non-functional).</li>
   <li>Acceptance criteria defined.</li>
@@ -48,7 +48,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   <li>Availability of the team.</li>
   <li>Windows vesions 10 or higher.</li>
 
-<h4> 1.1.3 Exit criteria defined </h4>
+**<h4> 1.1.3 Exit criteria defined </h4>**
 
   <li>85% passed test cases.</li>
   <li>Test cases must be written and examined.</li>
@@ -56,9 +56,9 @@ The plan identifies the items to be tested, the features to be tested, the types
   <li>Test data needs to be prepared and recognized.</li>
   <li>Test closure report.</li>
 
-<h4> 1.1.4 Test scope</h4>
+**<h4> 1.1.4 Test scope</h4>**
 
-<h5> Tests in scope: </h5>
+**<h5> Tests in scope: </h5>**
 
   <li>Unit Testing (we test the smallest functional unit of code and helps ensure code quality, and it's an integral part of software development).</li>
   <li>We test module within the application (we are testing a subset of UI elements that together builds the complete user interface).</li>
@@ -67,7 +67,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   <li>We are testing if the information is deleted at the time of logging out.</li>
   <li>we are testing the process of complete order and payment.</li>
 
-<h5>Tests not in scope: </h5>
+**<h5>Tests not in scope: </h5>**
 
   <li>Performance Testing(performance testing check that the software is literally performing at optimal levels: loading speed, software crash rates, memory, latency time etc).</li>
   <li>Load Testing(Load tests check how well a system handles increased load, such as from too many users logging in and shopping at the same time).</li>
@@ -76,9 +76,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4>1.1.5 Risks detected</h4>
 
-<h5>Project risks:</h5>
+**<h5>Project risks:</h5>**
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+** **
 
 <h5> Product risks: </h5>
 
