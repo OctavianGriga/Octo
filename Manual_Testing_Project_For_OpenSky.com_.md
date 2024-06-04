@@ -33,10 +33,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
 <ul>
-  <li>Dumitrescu Sorin- Project manager</li> 
-  <li>Costin Andreea- Product owner</li>
-  <li>Banciulesc Vasile- Software developer</li>
-  <li>Griga Octavian- QA Engineer</li>
+<li>Dumitrescu Sorin- Project manager</li> 
+<li>Costin Andreea- Product owner</li>
+<li>Banciulesc Vasile- Software developer</li>
+<li>Griga Octavian- QA Engineer</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
