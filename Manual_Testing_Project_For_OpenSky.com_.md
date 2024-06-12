@@ -127,7 +127,7 @@ The testing process will be executed based on the application requirements. <b>(
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+![Screenshot 2024-06-12 163812](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/5eebf679-b14b-4231-9c14-da3fc7fd9f9b)
 
 <h3>1.4 Test Design</h3>
 
