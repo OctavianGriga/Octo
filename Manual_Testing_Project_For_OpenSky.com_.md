@@ -28,7 +28,7 @@ The test process was performed based on the standard test process as described b
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **https://docs.google.com/presentation/d/1GP44-vzpmuDYUpKp-sZC1dg_a5oWn8IkESrMXzVBUNQ/edit#slide=id.p**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **https://bit.ly/4bV0Fvy**
 
 **<h4>1.1.1. Roles asigned to the project and persons allocated</h4>**
 
@@ -132,7 +132,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **Zephyr Test Steps + Executions + Results (Jira).pdf**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here https://github.com/OctavianGriga/Octavian-Griga/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf
 
 <h3>1.5 Test Implementation</h3>
 
