@@ -117,6 +117,7 @@ To monitor effectively, we follow these steps:
 After monitoring, we enter the control phase of the test.
 <li>Here, we prioritize testing activities, review the testing schedule, and make other changes to improve the quality and efficiency of the future testing process.</li>
 <li>Control is a feedback loop that helps us keep the project on the tracks.</li>
+<br></br>
 
 ![Screenshot 2024-06-04 183936](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/1f647c2f-8bc9-4fed-bc8d-8e2d40c513b8)
 
