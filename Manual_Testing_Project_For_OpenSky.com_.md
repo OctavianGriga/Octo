@@ -132,7 +132,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here https://github.com/OctavianGriga/Octavian-Griga/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here : https://bit.ly/4bXhHsL
 
 <h3>1.5 Test Implementation</h3>
 
