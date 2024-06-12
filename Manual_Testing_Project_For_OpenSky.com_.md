@@ -117,13 +117,13 @@ To monitor effectively, we follow these steps:
 After monitoring, we enter the control phase of the test.
 <li>Here, we prioritize testing activities, review the testing schedule, and make other changes to improve the quality and efficiency of the future testing process.</li>
 <li>Control is a feedback loop that helps us keep the project on the tracks.</li>
+
 ![Screenshot 2024-06-04 183936](https://github.com/OctavianGriga/Octavian-Griga/assets/128740240/1f647c2f-8bc9-4fed-bc8d-8e2d40c513b8)
 
 
-(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
-
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+Teste Analysis is a process of checking and analyzing documentation from the client to establish test conditions. A proactive approach would consist of suggestions for improvement on the requirements and the defects found being able to be fixed much easier and cheaper.
+<br><br>
 
 The following test conditions were found: <br>
 
