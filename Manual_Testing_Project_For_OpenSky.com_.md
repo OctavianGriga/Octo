@@ -79,20 +79,18 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **<h5>Project risks:</h5>**
 
-<li>Riscul lipsei de comunicare și colaborare intre angajați.</li>
-<li>Riscul lipsei de resurse suficiente - fonduri, personal.</li>
-<li>Riscul de a avea o calitatea scăzuta a codului.</li>
-<li>Riscul schimbării cerințelor de business foarte frecvent.</li>
-<li>Riscul lipsei de experienta a testerilor și presiune a timpului.</li>
-
+<li>The risk of lack of communication and collaboration between employees.</li>
+<li>Risk of lack of sufficient resources - funds, personnel.</li>
+<li>The risk of having low code quality.</li>
+<li>The risk of changing business requirements very frequently.</li>
+<li>The risk of testers' lack of experience and time pressure.</li>
 
  **<h5> Product risks: </h5>**
- <li>Riscul incapacității produsului de a îndeplini așteptările clientului.</li>
- <li>Riscul de performanța scăzuta a aplicației.</li>
- <li>Riscul de a pierde clienții din cauza problemelor care nu au fost rezolvate.</li>
- <li>Riscul softului de a nu își îndeplini funcțiile pentru care a fost creat conform specificaților.</li>
- <li>Riscul de a avea un timp de răspuns prea mare pentru funcțiile importante.</li>
-
+ <li>The risk of the product being unable to meet the customer's expectations.</li>
+ <li>Risk of poor application performance.</li>
+ <li>Risk of losing customers due to unresolved issues.</li>
+ <li>The risk of the software not performing its functions for which it was created according to the specifications.</li>
+ <li>Risk of having too much response time for important functions.</li>
 
 **<h4>1.1.6 Evaluating entry criteria</h4>**
 
