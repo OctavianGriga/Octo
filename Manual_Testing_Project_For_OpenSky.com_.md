@@ -158,8 +158,10 @@ Test cases are executed on the created test Cycle summary: **Open_Sky_improvemen
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
 
-The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+The following is a summary of the bugs that have been found:
+<li>Wrong woman item in mens serching criteria - Low priority-Minor Severity.</li>
+<li>Item have different price in basket that in serch - Low priority-Minor Severity.</li>
+<li>Item have different price in basket that in serch - Low priority-Minor Severity.</li><br>
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
