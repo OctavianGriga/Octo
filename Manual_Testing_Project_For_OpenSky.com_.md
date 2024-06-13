@@ -26,14 +26,14 @@ The test process was performed based on the standard test process as described b
 
 **<h3>1.1 Test planning</h3>**
 
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for all the modules from the OpenSky.com application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **https://bit.ly/4bV0Fvy**
 
 **<h4>1.1.1. Roles asigned to the project and persons allocated</h4>**
 
 <ul>
-  <li>Dumitrescu Sorin- Project manager</li> 
+ <li>Dumitrescu Sorin- Project manager</li> 
  <li>Costin Andreea- Product owner</li>
  <li>Banciulesc Vasile- Software developer</li>
  <li>Griga Octavian- QA Engineer</li>
@@ -41,8 +41,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **<h4> 1.1.2 Entry criteria defined </h4>**
 
-  <li>Availability of the requirements document (both functional and non-functional).</li>
-  <li>Acceptance criteria defined.</li>
+  <li>Having access to the necessary documents (such as requirements or design specifications).</li>
+  <li>A thorough understanding of the application flow.</li>
   <li>Availability of the application architecture document.</li>
   <li>Performant hardware.</li>
   <li>Availability of the team.</li>
@@ -60,19 +60,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **<h5> Tests in scope: </h5>**
 
-  <li>Unit Testing (we test the smallest functional unit of code and helps ensure code quality, and it's an integral part of software development).</li>
-  <li>We test module within the application (we are testing a subset of UI elements that together builds the complete user interface).</li>
-  <li>Integration testing(we test if the components of the software unified as a group they are working properly together.</li>
-  <li>We are testing if 1 single user can log in.</li>
-  <li>We are testing if the information is deleted at the time of logging out.</li>
-  <li>we are testing the process of complete order and payment.</li>
-
+  <li>User login and registration</li>
+  <li>User profile management</li>
+  <li>Search and filtering functionality</li>
+  <li>Shopping cart and checkout</li>
+  <li>Payment gateway integration</li>
+  <li>Email and SMS notifications</li>
+  <li>Data export</li>
+  
 **<h5>Tests not in scope: </h5>**
 
-  <li>Performance Testing(performance testing check that the software is literally performing at optimal levels: loading speed, software crash rates, memory, latency time etc).</li>
-  <li>Load Testing(Load tests check how well a system handles increased load, such as from too many users logging in and shopping at the same time).</li>
-  <li>Security Testing(Security tests check the software’s weaknesses and vulnerabilities to external attacks).</li>
-  <li>Responsive Testing(Responsive tests monitor and evaluate if an app/site renders well on screen sizes and resolutions offered by different devices, mobile, tablets, desktops).</li>
+  <li>Performance Testing (loading speed, software crash rates, memory, latency time etc).</li>
+  <li>Load Testing (Load tests check how well a system handles increased load, such as from too many users logging in and shopping at the same time).</li>
+  <li>Security Testing (Security tests check the software’s weaknesses and vulnerabilities to external attacks).</li>
+  <li>Responsive Testing (Responsive tests monitor if the site renders well on screen sizes and resolutions offered by different devices, mobile, tablets, desktops).</li>
 
 <h4>1.1.5 Risks detected</h4>
 
@@ -135,6 +136,26 @@ The following test conditions were found: <br>
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here : https://bit.ly/4bXhHsL
 
 <h3>1.5 Test Implementation</h3>
+
+In this phase of software testing for the web site OpenSky, several elements are evaluated to ensure product quality and functionality. Here are some of them:
+
+**1.5.1 Introduction:**
+
+<li>The objective of this testing is to ensure that the web application meets the requirements and is free of defects.</li>
+<li>This testing plan is for the Web Application OpenSky.com , version 1.4.1.</li>
+<li>Build Number: 101</li><br>
+
+**1.5.2 Test Environment:**
+<li>Operating System: Windows 10; 11, MacOS</li>
+<li>Browser: Google Chrome, Firefox, Safari</li>
+<li>Hardware: Intel i5 processor, 8GB RAM</li><br>
+
+**1.5.3 Test Approach:**
+<li>Manual testing will be used to test all the functionalities of the web application</li>
+<li>Responsive testing will be done to ensure the web application is compatible with different devices and screen sizes</li><br>
+
+
+
 
 The following elements are needed to be ready before the test execution phase begins:
 
