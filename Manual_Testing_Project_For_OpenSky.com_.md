@@ -152,16 +152,9 @@ In this phase of software testing for the web site OpenSky, several elements are
 <li>Manual testing will be used to test all the functionalities of the web application</li>
 <li>Responsive testing will be done to ensure the web application is compatible with different devices and screen sizes</li><br>
 
-
-
-
-The following elements are needed to be ready before the test execution phase begins:
-
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
-
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
+Test cases are executed on the created test Cycle summary: **Open_Sky_improvements_Cycle_Summary**
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
 
