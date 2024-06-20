@@ -163,7 +163,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 
 The following is a summary of the bugs that have been found:
 <li>Wrong woman item in mens serching criteria - Low priority-Minor Severity.</li>
-<li>Item have different price in basket that in serch - Low priority-Minor Severity.</li>
+<li>Item for men have different price in basket that in search - Low priority-Minor Severity.</li>
 <li>Item have different price in basket that in serch - Low priority-Minor Severity.</li><br>
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
