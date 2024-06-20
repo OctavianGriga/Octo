@@ -177,7 +177,7 @@ The traceability matrix was generated and can be found here:<br></br>
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+**https://github.com/OctavianGriga/Octavian-Griga/blob/main/Test%20Execution%20Report_OpenSky.com.pdf**
 
 The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
 
