@@ -156,7 +156,10 @@ In this phase of software testing for the web site OpenSky, several elements are
 
 Test cases are executed on the created test Cycle summary: **Open_Sky_improvements_Cycle_Summary**
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+Bugs have been created based on the failed tests. The complete bug reports can be found here: 
+<li>https://github.com/OctavianGriga/Octavian-Griga/blob/main/GOTT-20.pdf</li>
+<li>https://github.com/OctavianGriga/Octavian-Griga/blob/main/GOTT-25.pdf</li>
+<li>https://github.com/OctavianGriga/Octavian-Griga/blob/main/GOTT-26.pdf</li><br>
 
 The following is a summary of the bugs that have been found:
 <li>Wrong woman item in mens serching criteria - Low priority-Minor Severity.</li>
