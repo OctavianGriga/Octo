@@ -178,9 +178,12 @@ The traceability matrix was generated and can be found here:<br></br>
 Test execution chart was generated and can be found below. 
 
 **https://github.com/OctavianGriga/Octavian-Griga/blob/main/Test%20Execution%20Report_OpenSky.com.pdf**
+<br></br>
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
+Within this project, 2 stories were written and covered and all 10 test cases planned for execution were tested.
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+Of which 7 PASS tests and 3 FAIL tests, where 3 bugs were found, whose priority is Medium and Minor severity.
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+Reported bugs have not yet been fixed and retested.
+
+Retesting and regression testing will be done after fixing the defects.
